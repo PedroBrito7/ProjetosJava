@@ -31,4 +31,5 @@ public Funcionario(String nome){
     public void setSalario(double salario) {
         this.salario = salario;
     }
+
 }
