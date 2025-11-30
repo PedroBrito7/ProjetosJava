@@ -19,16 +19,22 @@ maratona-java/src/javacore
 
 ## 🧪 Conteúdos Estudados
 
-- Sintaxe básica  
-- Variáveis, operadores e estruturas de decisão  
-- Laços de repetição  
-- Arrays  
-- Orientação a Objetos  
-- Construtores, encapsulamento e modificadores  
-- Herança, polimorfismo e interfaces  
-- Classes abstratas  
-- Tratamento de exceções  
-- Exercícios práticos  
+- Sintaxe e semântica da linguagem  
+- Controle de fluxo e processamento lógico  
+- Estruturas de repetição e iteração eficiente  
+- Arrays, matrizes e estruturas de dados básicas  
+- Arquitetura de classes e objetos  
+- Encapsulamento, sobrecarga e sobrescrita  
+- Herança, polimorfismo e contratos de interface  
+- Classes abstratas e hierarquias complexas  
+- Manipulação e tratamento robusto de exceções  
+- Organização modular e princípios de coesão  
+- Immutability e boas práticas de modelagem  
+- Manipulação de strings e APIs utilitárias  
+- Enumerações e padrões de uso apropriado  
+- Introdução ao Java Collections Framework  
+- Programação orientada a abstrações  
+- Exercícios práticos de modelagem e lógica  
 
 ---
 
